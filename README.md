@@ -17,7 +17,7 @@ Output:
 
 Limitations:
 
-Only scrapes the product from the first page.
+Only scrapes products from the first page.
 
 Future plan:
 
